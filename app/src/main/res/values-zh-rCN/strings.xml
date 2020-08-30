@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">速算竞赛</string>
+    <string name="dialog_cancel">取消</string>
+    <string name="dialog_confirm">确定</string>
+    <string name="dialog_title">确定要放弃？</string>
+    <string name="fail_btn_back">返回</string>
+    <string name="fail_tv_fail">挑战失败！</string>
+    <string name="fail_tv_your_score">你的得分：%d</string>
+    <string name="question_answer_correct">回答正确，请继续！</string>
+    <string name="question_btn_button_confirm">确定</string>
+    <string name="question_tv_current_score">得分：%d</string>
+    <string name="question_tv_indicator">请输入答案：</string>
+    <string name="success_btn_back">返回</string>
+    <string name="success_tv_new_record">最高记录：%d</string>
+    <string name="success_tv_success">挑战成功！</string>
+    <string name="title_btn_enter">开始挑战</string>
+    <string name="title_message">速算竞赛</string>
+    <string name="title_tv_high_score">最高得分：%d</string>
+    <string name="question_btn_button_clear">清除</string>
+    <string name="nav_fail_fragment">挑战失败</string>
+    <string name="nav_question_fragment">游戏中</string>
+    <string name="nav_success_fragment">挑战成功</string>
+    <string name="nav_title_fragment">速算游戏</string>
+</resources>

@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">CalculationCompetition</string>
+
+    <string name="title_message">Calculation Competition</string>
+    <string name="title_image" translatable="false">title_image</string>
+    <string name="title_btn_enter">Enter</string>
+    <string name="title_tv_high_score">Highest Score: %d</string>
+    <string name="question_btn_button0" translatable="false">0</string>
+    <string name="question_btn_button1" translatable="false">1</string>
+    <string name="question_btn_button2" translatable="false">2</string>
+    <string name="question_btn_button3" translatable="false">3</string>
+    <string name="question_btn_button4" translatable="false">4</string>
+    <string name="question_btn_button5" translatable="false">5</string>
+    <string name="question_btn_button6" translatable="false">6</string>
+    <string name="question_btn_button7" translatable="false">7</string>
+    <string name="question_btn_button8" translatable="false">8</string>
+    <string name="question_btn_button9" translatable="false">9</string>
+    <string name="question_btn_button_clear">clear</string>
+    <string name="question_btn_button_confirm">confirm</string>
+    <string name="question_tv_equal_symbol" translatable="false">=</string>
+    <string name="question_tv_question_mark" translatable="false">\?</string>
+    <string name="question_tv_current_score">Current Score: %d</string>
+    <string name="question_tv_indicator">Your Answer: </string>
+    <string name="question_answer_correct">Correct ! Go On !</string>
+    <string name="fail_iv_fail" translatable="false">fail image</string>
+    <string name="fail_tv_fail">You are failed !</string>
+    <string name="fail_tv_your_score">Your Score: %d</string>
+    <string name="fail_btn_back">Back</string>
+    <string name="success_iv_success" translatable="false">success image</string>
+    <string name="success_tv_success">You are successful !</string>
+    <string name="success_tv_new_record">New Record: %d !</string>
+    <string name="success_btn_back">Back</string>
+    <string name="dialog_title">Are you sure to quit ?</string>
+    <string name="dialog_confirm">Confirm</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="nav_title_fragment">Calculator Game</string>
+    <string name="nav_question_fragment">Gaming</string>
+    <string name="nav_success_fragment">Win</string>
+    <string name="nav_fail_fragment">Fail</string>
+</resources>
